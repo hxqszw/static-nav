@@ -2,4 +2,4 @@
 
 domo图片，仅做备份
 
-![](https://ghproxy.com/https://raw.githubusercontent.com/Yiov/static-nav/main/domo.png)
+![](https://ghproxy.com/https://raw.githubusercontent.com/Yiov/static-nav/main/demo.png)
